@@ -1,4 +1,1 @@
-[
-  "https://saweria.co/SanzXp",
-  "https://sociabuzz.com/sanzexde"
-]
+["https://saweria.co/SanzXp", "https://sociabuzz.com/sanzexde"]
